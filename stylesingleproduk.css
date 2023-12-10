@@ -1,0 +1,172 @@
+body {
+  background-color: #fff;
+}
+@media screen and (min-width: 994px) {
+.form-control {
+    width: 500px;
+    height: 35px;
+  } 
+  }
+@media screen and (max-width: 994px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
+.nama-rio {
+  color: #228B22;
+}
+.text-item {
+  color: #228B22;
+  font-weight: bold;
+  text-decoration: none;
+  padding-top: 10px;
+}
+.navbar-nav {
+  text-align: center;
+}
+.btn {
+    height: 35px;
+}
+
+  .btn{
+    outline: none;
+    padding: 1px 9px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 400;
+    background: #228B22;
+    color: #fff;
+    border: 2px solid transparent;
+    transition: all 0.4s ease;
+    margin-left: 1px;
+    margin-top: 4px;
+  }
+  .button {
+    outline: none;
+    padding: 2px 9px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 400;
+    background: #228B22;
+    color: #fff;
+    border: 2px solid transparent;
+    transition: all 0.4s ease;
+    margin-left: 3px;
+    margin-top: 7px;
+  }
+
+  .img-carousel {
+    border-radius: 8px;
+  }
+
+  /*singleproduk*/
+.previous {
+  width: 34px;
+  margin-left: 40px;
+}
+
+.text-judul-halaman {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 59px;
+  color: #000;
+}
+.icon-bintang {
+  color: orange;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.diskripsi {
+  height: 500px;
+  overflow: scroll;
+  overflow-x: hidden;
+
+}
+.text-deskripsi {
+  font-size: 14px;
+  line-height: 22px;
+  color: #323336;
+}
+.text-harga {
+  font-weight: 800;
+  font-size: 17px;
+  line-height: 30px;
+  color: #000000;
+}
+.input-kuantitas {
+  width: 100px;
+}
+
+/*rekomendasi*/
+.text-judul {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 39px;
+  color: #141414;
+}
+.img-review {
+  width: 45px;
+  border-radius: 20px;
+}
+.nama-review {
+  font-weight: 700;
+}
+
+.text-judul {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 39px;
+  color: #141414;
+}
+
+.text-tautan {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 23px;
+  
+
+}
+.single-produk {
+  color: #000;
+  text-decoration: none;
+}
+.text-harga {
+  font-weight: 800;
+  font-size: 17px;
+  line-height: 30px;
+  color: #000000;
+}
+.icon-bintang {
+  color: orange;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.rating {
+  font-size: 12px;
+  margin-top: px;
+  color: #000000;
+}
+.btn-tambah {
+  padding: 5px;
+  height: 35px;
+  width: 35px;
+  
+}
+
+/*footer*/
+.footer {
+  margin-top: 110px;
+  padding: 5px;
+  background-color: #8fa382;
+  text-align: center;
+}
+.rio {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.sosmed {
+  color: black;
+  margin-right: 8px;
+}

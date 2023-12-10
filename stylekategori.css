@@ -1,0 +1,34 @@
+body {
+    background-color: #01092F;
+  }
+  @media screen and (min-width: 994px) {
+  .form-control {
+      width: 500px;
+      height: 35px;
+    } 
+    }
+  @media screen and (max-width: 994px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  
+  
+
+    /*footer*/
+.footer {
+    margin-top: 110px;
+    padding: 5px;
+    background-color: #8fa382;
+    text-align: center;
+  }
+  .rio {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-right: 15px;
+  }
+  .sosmed {
+    color: black;
+    margin-right: 8px;
+  }

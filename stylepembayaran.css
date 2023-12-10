@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;700&family=Poppins:wght@300;400;500&display=swap');
+body {
+    background-color: #fff;
+  }
+  @media screen and (min-width: 994px) {
+  .form-control {
+      width: 500px;
+      height: 35px;
+    } 
+    }
+  @media screen and (max-width: 994px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  .nav {
+    z-index: 100;
+  }
+  .nama-rio {
+    color: #228B22;
+  }
+  .text-item {
+    color: #228B22;
+    font-weight: bold;
+    text-decoration: none;
+    padding-top: 10px;
+  }
+  .navbar-nav {
+    text-align: center;
+  }
+  .btn {
+      height: 35px;
+  }
+  
+    .btn{
+      outline: none;
+      padding: 1px 9px;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: 400;
+      background: #228B22;
+      color: #fff;
+      border: 2px solid transparent;
+      transition: all 0.4s ease;
+      margin-left: 1px;
+      margin-top: 4px;
+    }
+    .button {
+      outline: none;
+      padding: 2px 9px;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: 400;
+      background: #228B22;
+      color: #fff;
+      border: 2px solid transparent;
+      transition: all 0.4s ease;
+      margin-left: 3px;
+      margin-top: 7px;
+    }
+    .previous {
+      width: 34px;
+      margin-left: 40px;
+    }
+  /*pembayaran*/
+.dropdown-menu {
+  width: 550px;
+}
+
+  
+  .text-judul {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 39px;
+    color: #141414;
+  }
+  .nama-cara {
+      font-weight: 700;
+  }
+  .kuris-jnt {
+      width: 100px;
+  }
+  .kuris-jne {
+    width: 70px;
+}
+.kuris-sicepat {
+    width: 100px;
+}
+.cara-bank {
+    width: 55px;
+}
+.cara-dana {
+    width: 110px;
+}
+.cara-gopay {
+    width: 140px;
+}
+.cara-ovo {
+    width: 90px;
+}
+.btn-bayar {
+    width: 290px;
+    font-size: 20px;
+    padding-bottom: 35px;
+    font-weight: bold;
+}
+  /*footer*/
+  .footer {
+    margin-top: 110px;
+    padding: 5px;
+    background-color: #8fa382;
+    text-align: center;
+  }
+  .rio {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-right: 15px;
+  }
+  .sosmed {
+    color: black;
+    margin-right: 8px;
+  }
+  
